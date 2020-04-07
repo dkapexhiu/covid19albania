@@ -5,9 +5,9 @@ function Navbar() {
     <div>
       <h1>Covid-19 ne Shqiperi</h1>
       <div style={{ display: "flex", justifyContent: "center" }}>
-        <p>Konfirmuar: 377&nbsp;</p>
+        <p>Konfirmuar: 383&nbsp;</p>
         <p>Vdekur: 21&nbsp;</p>
-        <p>Sheruar: 116</p>
+        <p>Sheruar: 131</p>
       </div>
     </div>
   );
