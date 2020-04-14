@@ -13,7 +13,7 @@ export default class List extends Component {
     const axios = require("axios");
     axios({
       method: "GET",
-      url: "http://134.122.91.129/data"
+      url: "https://covid19-albania-api.danielkapexhiu.com/data"
     })
       .then(response => {
         console.log(response.data);
