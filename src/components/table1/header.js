@@ -4,7 +4,7 @@ function Header() {
   return (
     <tr>
       <th scope="col">Qyteti</th>
-      <th scope="col">Konfirmuar</th>
+      <th scope="col">Aktiv</th>
     </tr>
   );
 }
