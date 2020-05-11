@@ -4,7 +4,7 @@ function Tbody(props) {
   return (
     <tr>
       <td>{props.p.Qyteti}</td>
-      <td>{props.p.Konfirmuar}</td>
+      <td>{props.p.Aktiv}</td>
     </tr>
   );
 }
