@@ -3,7 +3,7 @@ import React from "react";
 function Navbar() {
   return (
     <div>
-      <p>Azhornim i fundit: 23.05.2020</p>
+      <p>Azhornim i fundit: 25.05.2020</p>
     </div>
   )
 }
